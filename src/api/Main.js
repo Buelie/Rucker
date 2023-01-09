@@ -1,4 +1,4 @@
-import './api/'
+import './api'
 export function col_info(info){
 	try{
 		var date = new Date().toLocaleString();
