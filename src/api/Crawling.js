@@ -15,4 +15,11 @@ function crawling(){
   var DataText = xmlhttp.responseText;
   //获取XML数据
   var DataXML = xmlhttp.responseXML
+  //解析XML数据
+  var txt = "";
+  for (i=0;i<x.length;i++){
+    txt = txt + DataXML[i].childNodes[0].nodeValue + "";
+  }
+  //返回解析的XML数据
+  var xml = txt;
 }
