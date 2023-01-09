@@ -1,4 +1,4 @@
-xmlhttp.open("POST","https://www.kookapp.cn/api/v3",true);
+xmlhttp.open("POST","https://www.kookapp.cn/api/v3/message/createapi/v3",true);
 xmlhttp.send();
 
 function send(info){
