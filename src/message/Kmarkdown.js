@@ -4,6 +4,6 @@ function kmarkdown(content){
     "content":content,
   }
   //发送请求
-  xmlhttp.open(kmarkdown,"https://www.kookapp.cn/api/v3/message/create",true);
-  xmlhttp.send();
+  xmlhttp.open("POST","https://www.kookapp.cn/api/v3/message/create",true);
+  xmlhttp.send(kmarkdown);
 }
