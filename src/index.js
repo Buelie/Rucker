@@ -1,1 +1,5 @@
 import './api'
+import './guild'
+import './channel'
+import './user'
+import './message'
