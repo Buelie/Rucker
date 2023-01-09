@@ -9,7 +9,7 @@ function crawling(){
       xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
     }
     //向KOOK发送POST请求
-    xmlhttp.open("POST","https://www.kookapp.cn/app/discover",true);
+    xmlhttp.open("GET","https://www.kookapp.cn/app/discover",true);
     //发送请求
     xmlhttp.send();
     //获取Text数据
