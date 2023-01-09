@@ -22,5 +22,5 @@
   
 # thank
 * **Thanks to [Sublime Text 4](https://www.sublimetext.com/) for providing such a great software**
-* **Thanks to [HBuilder](https://dcloud.io/hbuilderx.html) for providing such a great software**
+* **Thanks to [HBuilderX](https://dcloud.io/hbuilderx.html) for providing such a great software**
 * **Thanks to [Visual Studio Code](https://code.visualstudio.com/) for providing such a great software**
