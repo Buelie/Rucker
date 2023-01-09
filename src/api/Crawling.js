@@ -1,4 +1,4 @@
-function crawling(id){
+function crawling(){
   var xmlhttp;
   if (window.XMLHttpRequest){
     //  IE7+, Firefox, Chrome, Opera, Safari 浏览器执行代码
@@ -7,6 +7,12 @@ function crawling(id){
     // IE6, IE5 浏览器执行代码
     xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
   }
-  xmlhttp.open("GET","https://www.kookapp.cn/app/discover?t="+id,true);
+  //向KOOK发送POST请求
+  xmlhttp.open("POST","https://www.kookapp.cn/app/discover",true);
+  //发送请求
   xmlhttp.send();
+  //获取Text数据
+  var DataText = xmlhttp.responseText;
+  //获取XML数据
+  var DataXML = xmlhttp.responseXML
 }
