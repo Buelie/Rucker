@@ -4,6 +4,10 @@
 # Get updates
 ***Don't worry, we rarely update, and if there is, you will definitely notice it first (after all, it is true that we update after a long time)***
 
+# Notes
+- **After downloading, you need to unzip the compressed package before you can use it!**
+- **If you need to use all the APIs, you only need to import the index .js file (of course, you can also introduce them one by one)**
+
 # Pros of Rucker
 
 * **Use Ajax for crawling and requesting without relying on third parties.**
