@@ -12,6 +12,7 @@
 * **With both SDK and command framework mode, you can write a bot with a single line of code.**
 * **Perfect API and stable iteration allow you to focus on development without worrying about the SDK.**
 * **Powerful interactive features that make it easy to complete a variety of complex functions that require a lot of interaction.**
+* **Both webhooks and websockets are supported (but they are not mixed, otherwise serious bugs will occur!)**
 
 # Contributors
 
