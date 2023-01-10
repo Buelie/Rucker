@@ -21,6 +21,10 @@
 * **Powerful interactive features that make it easy to complete a variety of complex functions that require a lot of interaction.**
 * **Both webhooks and websockets are supported (but they are not mixed, otherwise serious bugs will occur!)**
 
+# documentation
+* **[Wiki](https://github.com/Buelie/Rucker/wiki)**
+* **[documentation](https://github.com/Buelie/Rucker/documentation)
+
 # Contributors
 
 * GitHub
