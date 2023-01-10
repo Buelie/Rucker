@@ -8,6 +8,9 @@
 - **After downloading, you need to unzip the compressed package before you can use it!**
 - **If you need to use all the APIs, you only need to import the index .js file (of course, you can also introduce them one by one)**
 
+# Download
+* **[Download address (GitHub)](https://github.com/Buelie/Rucker/tags)**
+
 # Pros of Rucker
 
 * **Use Ajax for crawling and requesting without relying on third parties.**
