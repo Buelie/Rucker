@@ -23,7 +23,7 @@
 
 # documentation
 * **[Wiki](https://github.com/Buelie/Rucker/wiki)**
-* **[documentation](https://github.com/Buelie/Rucker/documentation)
+* **[documentation](https://github.com/Buelie/Rucker/documentation)**
 
 # Contributors
 
