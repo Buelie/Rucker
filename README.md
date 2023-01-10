@@ -29,7 +29,7 @@
 
 * GitHub
   * Buelie
-* [KOOK（开黑啦）](./html/READNE.html)
+* [KOOK（开黑啦）](https://github.com/Buelie/Rucker/blob/main/html/README.html)
   * 陆御#5627
   
 # thank
