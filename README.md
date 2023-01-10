@@ -29,7 +29,7 @@
 
 * GitHub
   * Buelie
-* KOOK（开黑啦）
+* [KOOK（开黑啦）](./html/READNE.html)
   * 陆御#5627
   
 # thank
