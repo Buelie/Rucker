@@ -5,25 +5,25 @@ function me(mode){
   if (mode = 'id'){
     return text.id;
   }else if(mode = 'username'){
-    return text.username;
+    return text.data.username;
   }else if(mode = 'num'){
-    return text.identify_num;
+    return text.data.identify_num;
   }else if(mode = 'online'){
-    return text.online;
+    return text.data.online;
   }else if(mode = 'status'){
-    return text.status;
+    return text.data.status;
   }else if(mode = 'avatar'){
-    return text.avatar;
+    return text.data.avatar;
   }else if(mode = 'bot'){
-    return text.bot;
+    return text.data.bot;
   }else if(mode = 'mobile_verified'){
-    return text.mobile_verified;
+    return text.data.mobile_verified;
   }else if(mode = 'mobile_prefix'){
-    return text.mobile_prefix;
+    return text.data.mobile_prefix;
   }else if(mode = 'mobile'){
-    return text.mobile;
+    return text.data.mobile;
   }else if(mode = 'invited_count'){
-    return text.invited_count;
+    return text.data.invited_count;
   }else{
     return 'error';
   }
