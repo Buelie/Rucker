@@ -1,16 +1,32 @@
-# documentation
+# Documentation
 
-***If you need to use all the components, you just need to import the index .js file. The code is as follows:***
+# Table of Contents
+* [Chapter 00: KOOK and Related Resources]()
+  * [01:Meet KOOK]()
+  * [02: Apply to become a developer]()
+  * [03:KOOK related development resources]()
+  * [04:KOOK Other Resources and Webpages]()
+* [Chapter 01: KOOK Server Link]()
+  * [01: WebHook or WebSocket?]()
+  * [02: Configure WebHook]()
+  * [03: Configure WebSocket]()
+* [Chapter 02: BOT]()
+  * [01: Meet the Robot (BOT)]()
+
+#### Usage
+***If you need to use all the API interfaces, just import the index .js file (otherwise you will be exhausted), the code is as follows:***
 ```javascript
-import 'Rucker/index.js'
+import 'Rucker/index.js';
+```
+***If you need to use the Features API, you only need to import the Main .js files in a specific folder, e.g.***
+```javascript
+import 'Rucker/Bot/Main.js'; //Introduce robot-related interfaces
+import 'Rucker/api/Main.js'; //Introduce APIs
 ```
 
 # Get updates
+***You can check the tag, you can get the version you need from there, if you find that there is no version you need (the version that the author himself admits exists, but it cannot be obtained in the tag) please contact the author Buelie, and the author will reply within 7 working days.***
 
-***You can find the version you want from "Tag", and if you don't find the version you need, you can contact the author (Buelie).*** 
-![image](https://user-images.githubusercontent.com/111875719/212035327-bf91401a-9998-4ee4-b8f5-4b8a7a0b58fa.png)
-
-## [Document Changelog]() | [SDK changelog]() | [List of contributors]() 
-#### [English(英语)]() | [Chinese Simplified(简体中文)]() | [Chinese Traditional(繁体中文)]()
-
-# Document construction
+## [Document changelog]() | [SDK changelog]() | [List of contributors]() 
+#### [English]() | [Chinese Simplified(Chinese Simplified)]() | [Chinese Traditional(Chinese Traditional)]()
+# Documentation under construction
