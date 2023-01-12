@@ -1,3 +1,9 @@
+# 公告（简体中文）
+***SDK将于3月份进行重构***
+
+# Announcements (US/UK)
+***The SDK will be refactored in March***
+
 # Rucker
 ***This is a KOOK robot SDK implemented in pure JavaScript, which means that you don't need to install anything else (such as node.js, Jquery) to be able to use this SDK, of course, if you write TS we don't support, please go to the SDK at [next door](https://github.com/fi6/kBotify), they support ts.***
 
