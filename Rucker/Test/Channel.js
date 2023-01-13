@@ -1,4 +1,5 @@
 xmlhttp.open("GET","https://www.kookapp.cn/api/v3/channel/view")
+xmlhttp.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
 xmlhttp.send()
 var ner = xmlhttp.responseText;
 
