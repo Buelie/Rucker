@@ -1,4 +1,4 @@
-# English | [简体中文](https://github.com/Buelie/Rucker/edit/main/README.md#english--%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87--%E7%B9%81%E4%BD%93%E4%B8%AD%E6%96%87-1) | [繁体中文](https://github.com/Buelie/Rucker/edit/main/README.md#english--%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87--%E7%B9%81%E4%BD%93%E4%B8%AD%E6%96%87-1)
+# English | [简体中文](https://github.com/Buelie/Rucker#english--%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87--%E7%B9%81%E4%BD%93%E4%B8%AD%E6%96%87-1) | [繁体中文](https://github.com/Buelie/Rucker/edit/main/README.md#english--%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87--%E7%B9%81%E4%BD%93%E4%B8%AD%E6%96%87-1)
 
 ### Rucker's philosophy
 ***Rucker will support the API interface provided by KOOK to the end, and provide some interfaces that are not officially announced or simply write the interface yourself***
@@ -20,7 +20,7 @@
 * 自动处理异常无需开发者操心
 * 详细的文档
 
-# [English](https://github.com/Buelie/Rucker/edit/main/README.md#english--%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87--%E7%B9%81%E4%BD%93%E4%B8%AD%E6%96%87) | [简体中文](https://github.com/Buelie/Rucker/edit/main/README.md#english--%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87--%E7%B9%81%E4%BD%93%E4%B8%AD%E6%96%87-1) | 繁体中文
+# [English](https://github.com/Buelie/Rucker/edit/main/README.md#english--%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87--%E7%B9%81%E4%BD%93%E4%B8%AD%E6%96%87) | [简体中文](https://github.com/Buelie/Rucker#english--%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87--%E7%B9%81%E4%BD%93%E4%B8%AD%E6%96%87-1) | 繁体中文
 
 ### Rucker的理念
 ***Rucker會對KOOK提供的API介面支援到底，並且提供一些官方並沒有公佈的介面或者乾脆自己寫介面***
