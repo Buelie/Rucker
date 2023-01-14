@@ -1,44 +1,32 @@
-# 公告（简体中文）
-***SDK将于3月份进行重构***
+# English | [简体中文](https://github.com/Buelie/Rucker/edit/main/README.md#english--%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87--%E7%B9%81%E4%BD%93%E4%B8%AD%E6%96%87-1) | [繁体中文](https://github.com/Buelie/Rucker/edit/main/README.md#english--%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87--%E7%B9%81%E4%BD%93%E4%B8%AD%E6%96%87-1)
 
-# Announcements (US/UK)
-***The SDK will be refactored in March***
+### Rucker's philosophy
+***Rucker will support the API interface provided by KOOK to the end, and provide some interfaces that are not officially announced or simply write the interface yourself***
 
-# Rucker
-***This is a KOOK robot SDK implemented in pure JavaScript, which means that you don't need to install anything else (such as node.js, Jquery) to be able to use this SDK, of course, if you write TS we don't support, please go to the SDK at [next door](https://github.com/fi6/kBotify), they support ts.***
+### Features of Rucker
+* Use pure JS implementation
+* Lightweight SDK
+* Automatic exception handling without developer worry
+* Detailed documentation
 
-# Get updates
-***Don't worry, we rarely update, and if there is, you will definitely notice it first (after all, it is true that we update after a long time)***
+# [English](https://github.com/Buelie/Rucker/edit/main/README.md#english--%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87--%E7%B9%81%E4%BD%93%E4%B8%AD%E6%96%87) | 简体中文 | [繁体中文](https://github.com/Buelie/Rucker/edit/main/README.md#english--%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87--%E7%B9%81%E4%BD%93%E4%B8%AD%E6%96%87-1)
 
-# Notes
-- **After downloading, you need to unzip the compressed package before you can use it!**
-- **If you need to use all the APIs, you only need to import the index .js file (of course, you can also introduce them one by one)**
+### Rucker的理念
+***Rucker会对KOOK提供的API接口支持到底,并且提供一些官方并没有公布的接口或者干脆自己写接口***
 
-# Download
-* **[Download address (GitHub)](https://github.com/Buelie/Rucker/tags)**
+### Rucker 的特点
+* 使用纯JS实现
+* SDK轻量化
+* 自动处理异常无需开发者操心
+* 详细的文档
 
-# Pros of Rucker
+# [English](https://github.com/Buelie/Rucker/edit/main/README.md#english--%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87--%E7%B9%81%E4%BD%93%E4%B8%AD%E6%96%87) | [简体中文](https://github.com/Buelie/Rucker/edit/main/README.md#english--%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87--%E7%B9%81%E4%BD%93%E4%B8%AD%E6%96%87-1) | 繁体中文
 
-* **Use Ajax for crawling and requesting without relying on third parties.**
-* **Only using JavaScript, there is no need to worry that some features of TS will not be used**
-* **Low resource footprint (mainly due to no dependency on third parties)**
-* **With both SDK and command framework mode, you can write a bot with a single line of code.**
-* **Perfect API and stable iteration allow you to focus on development without worrying about the SDK.**
-* **Powerful interactive features that make it easy to complete a variety of complex functions that require a lot of interaction.**
-* **Both webhooks and websockets are supported (but they are not mixed, otherwise serious bugs will occur!)**
+### Rucker的理念
+***Rucker會對KOOK提供的API介面支援到底，並且提供一些官方並沒有公佈的介面或者乾脆自己寫介面***
 
-# documentation
-* **[Wiki](https://github.com/Buelie/Rucker/wiki)**
-* **[documentation](https://github.com/Buelie/Rucker/documentation)**
-
-# Contributors
-
-* GitHub
-  * Buelie
-* [KOOK（开黑啦）](https://github.com/Buelie/Rucker/blob/main/html/README.html)
-  * 陆御#5627
-  
-# thank
-* **Thanks to [Sublime Text 4](https://www.sublimetext.com/) for providing such a great software**
-* **Thanks to [HBuilderX](https://dcloud.io/hbuilderx.html) for providing such a great software**
-* **Thanks to [Visual Studio Code](https://code.visualstudio.com/) for providing such a great software**
+### Rucker 的特點
+* 使用純JS實現
+* SDK輕量化
+* 自動處理異常無需開發者操心
+* 詳細的文件
