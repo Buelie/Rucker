@@ -1,6 +1,6 @@
 import '../index.js';
 
-function send_kmarkdown(text){
+function send_card(text){
 	var ner = {
 		"type" : 10,
 		"target_id" : id(),
